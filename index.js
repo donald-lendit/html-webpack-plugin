@@ -1066,7 +1066,7 @@ function templateParametersGenerator (compilation, assets, assetTags, options) {
 /**
  * The major version number of this plugin
  */
-HtmlWebpackPlugin.version = 4;
+HtmlWebpackPlugin.version = 5;
 
 /**
  * A static helper to get the hooks for this plugin
